@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/exit.png</file>
+        <file>icons/newpic.png</file>
+        <file>icons/openpic.png</file>
+        <file>icons/mainlogo.jpg</file>
+        <file>icons/cut.png</file>
+        <file>icons/resize.png</file>
+        <file>icons/rotate.png</file>
+        <file>icons/binarize.png</file>
+        <file>icons/contrast.png</file>
+        <file>icons/greyscale.png</file>
+        <file>icons/lightness.png</file>
+        <file>icons/mosaic.png</file>
+        <file>icons/reverse.png</file>
+        <file>icons/textlogo.png</file>
+        <file>icons/undo.png</file>
+        <file>icons/save.png</file>
+        <file>icons/cancel.png</file>
+        <file>icons/confirm.png</file>
+        <file>icons/horizonal.png</file>
+        <file>icons/vertical.png</file>
+        <file>icons/freerotate.png</file>
+        <file>icons/adjust.png</file>
+        <file>icons/color.png</file>
+        <file>icons/saturation.png</file>
+        <file>icons/whitebg.jpg</file>
+        <file>icons/draw.png</file>
+        <file>icons/setting.png</file>
+        <file>icons/sharpen.png</file>
+        <file>icons/temp.png</file>
+    </qresource>
+</RCC>
