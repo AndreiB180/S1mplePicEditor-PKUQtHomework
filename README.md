@@ -17,3 +17,17 @@ Qt 6.7.3(macOS,arm64)with network
 Windows 11 and macOS 15.2 were tested;Linux was not.
 
 代码量约为2500-3000行。
+
+关于本程序的详细介绍（具体功能，实现，分工，开发心得等）详见“1-作业报告.pdf”。
+
+本项目采用CMake构建。
+全部源代码及需要的资源文件在sourcecode/S1mpleBMPEditor文件夹内，只需把全部文件放进一个文件夹内，并用适当版本的Qt（实测6.7.3 for macOS,6.7.3 for Windows有效）打开CMakeLists.txt即可打开项目，选择"Release"后构建即可运行较稳定的版本。
+
+以下为两个打包后可以运行的程序的网盘链接：
+https://disk.pku.edu.cn/link/AAC1BC161D727F442C83ED7E859149BF93
+文件夹名：boxed_application
+有效期限：永久有效
+提取码：vCSC
+
+其中.exe适用于windows系统，.app适用于macOS系统，分别于windows11和macOS15.2下验证运行良好。
+但注意：.app文件会因无开发者签名许可而显示“文件损坏”，需要打开任何来源解决该问题方能使用。
